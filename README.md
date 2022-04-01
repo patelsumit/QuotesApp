@@ -1,2 +1,2 @@
 # QuotesApp
-<img src="screenone.png" width="280" height="500">
+<img src="screenone.png" width="300" height="600">
